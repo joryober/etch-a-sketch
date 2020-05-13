@@ -1,7 +1,15 @@
 .square {
-    height: 20px;
-    width: 20px;
+    height: 150px;
+    width: 150px;
     background-color: grey;
     display: inline-block;
+}
 
+.square-no-height {
+    background-color: grey;
+    display: inline-block;
+}
+
+.white{
+    background-color: white;
 }
